@@ -1,2 +1,0 @@
-# iconboot.io
-MyPage
